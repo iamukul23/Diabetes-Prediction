@@ -17,7 +17,7 @@ Attributes:
 
 Pregnancies
 
-Glucose
+Glucoses
 
 Blood Pressure
 
